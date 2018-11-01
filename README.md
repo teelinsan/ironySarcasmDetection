@@ -2,6 +2,8 @@
 
 This is the code's repository of the paper "A Kernel-based Approach for Irony and Sarcasm Detection in Italian" presented at <a href="http://www.di.unito.it/~tutreeb/ironita-evalita18/">IronITA @ Evalita2018</a>
 
+The system ranked **first** and **second** at the sarcasm detection task, while it ranked sixth and seventh at the irony detection task.
+
 ### Usage
 The jupyter notebook file "Genera file Kelp" contains all the python code used to model the features for the task.
 

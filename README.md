@@ -21,4 +21,4 @@ It also contains the `.pickle` files with the words frequency extracted from the
 
 3. Now you can use the jupyter notebook file `GenerateKLPFile` to generate the .klp file with all the features modelled as explained in the paper.
 
-4. At the end you have to use <a href="http://www.kelp-ml.org/">KeLP</a> to use the modelled features in a kernel machine (linear combination, as explained in the paper, or other type of combination/kernel)
+4. At the end you have to use <a href="http://www.kelp-ml.org/">KeLP</a> to use the modelled features in a kernel machine (linear combination, as explained in the paper, or other type of combination/kernel). An example of kelp classification can be found in the file `IroniTAClassifier.java`

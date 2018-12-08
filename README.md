@@ -4,7 +4,12 @@ This is the code's repository of the paper "A Kernel-based Approach for Irony an
 
 The system ranked **first** and **second** at the sarcasm detection task, while it ranked sixth and seventh at the irony detection task.
 
-### Usage
+Please if you use this code cite:
+```
+Bibitex
+```
+
+## Usage
 The jupyter notebook file "Genera file Kelp" contains all the python code used to model the features for the task.
 
 The .pickle files contain the words frequency extracted from the Irony Corpus.

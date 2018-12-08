@@ -13,13 +13,12 @@ Bibitex
 The jupyter notebook file "Genera file Kelp" contains all the python code used to model the features for the task.
 
 ### Prerequisites
-In order to use this code you need to place preprocessed data in the parent directory `../`
+In order to use this code you have first to download all the files in the repository, the <a href="http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html">datasets for the task </a> and place them in the same folder.
 
-| id	        | 	text           | 	topic  | text::text::S |
-| ------------- |:-------------:| -----:|
-| 595524450503815168      | -Prendere::-prendere::V i::i::RD libri::libro::S in::in::E copisteria-Fare::copisteria-fare::V la::la::RD spesa-Spararmi::spesa-spararmi::S in::in::E bocca-Farmi::bocca-farmi::S la::la::RD doccia::doccia::S | TWITA | -Prendere::-prendere::V i::i::RD libri::libro::S in::in::E copisteria-Fare::copisteria-fare::V la::la::RD spesa-Spararmi::spesa-spararmi::S in::in::E bocca-Farmi::bocca-farmi::S la::la::RD doccia::doccia::S |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Once you have downloaded these data, you need to preprocess them with a POS-tagger and lemmatizer.
+
+At the end you have to generate a copy of each dataset downloaded `test_dataset.klp -> ../test_ironita2018_revnlt_processed.tsv` `train_dataset.klp  -> ../training_ironita2018_renlt_processed.tsv ` add a new column in the datasets 
+
 
 The .pickle files contain the words frequency extracted from the Irony Corpus.
 

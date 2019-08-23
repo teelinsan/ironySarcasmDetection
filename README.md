@@ -6,7 +6,12 @@ The system ranked **first** and **second** at the sarcasm detection task, while 
 
 Please if you use this code cite:
 ```
-Bibitex
+@inproceedings{Santilli2018AKA,
+  title={A Kernel-based Approach for Irony and Sarcasm Detection in Italian},
+  author={Andrea Santilli and Danilo Croce and Roberto Basili},
+  booktitle={EVALITA@CLiC-it},
+  year={2018}
+}
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 # A Kernel-based Approach for Irony and Sarcasm Detection in Italian
 
-This is the code's repository of the paper "A Kernel-based Approach for Irony and Sarcasm Detection in Italian" presented at <a href="http://www.di.unito.it/~tutreeb/ironita-evalita18/">IronITA @ Evalita2018</a>
+This is the code's repository of the paper <a href="http://ceur-ws.org/Vol-2263/paper023.pdf"> "A Kernel-based Approach for Irony and Sarcasm Detection in Italian"</a> presented at <a href="http://www.di.unito.it/~tutreeb/ironita-evalita18/">IronITA @ Evalita2018</a>
 
 The system ranked **first** and **second** at the sarcasm detection task, while it ranked sixth and seventh at the irony detection task.
 
